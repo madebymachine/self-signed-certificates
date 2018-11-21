@@ -1,0 +1,8 @@
+# macOS Desktop Services Store files
+.DS_Store
+
+# OpenSSL-generated files
+*.crt
+*.csr
+*.key
+*.srl
